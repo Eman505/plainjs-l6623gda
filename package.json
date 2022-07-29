@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/eman505.plainjs-l6623gda",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve L16leBczD7piHBQYBimp --open"
+  }
+}
